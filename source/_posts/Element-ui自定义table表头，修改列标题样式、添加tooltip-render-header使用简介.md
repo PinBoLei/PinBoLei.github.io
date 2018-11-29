@@ -227,7 +227,7 @@ renderTip (h,{column}) {
 
 ### JSX语法
 
-或许你会发现，这个原生的createElement 写起来并不简单，而且很费事，我们也可以采用```JSX```的方式，这个在Vue官方文档中有提到
+或许你会发现，这个原生的createElement 写起来并不简单，而且很费事，我们也可以采用`JSX`的方式，这个在Vue官方文档中有提到
 ![图1-5](https://img-blog.csdnimg.cn/20181113164011712.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BpbmJvbGVp,size_16,color_FFFFFF,t_70)
 
 查看文档，可以找到安装使用的方法
