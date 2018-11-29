@@ -6,6 +6,7 @@ tags:
 - 前端
 categories:
 - ES6
+- 前端
 copyright: true
 ---
 
