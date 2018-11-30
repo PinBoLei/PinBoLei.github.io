@@ -17,8 +17,10 @@ categories:
 comments: true
 ---
 
-***
+*Element-ui自定义table表头，修改列标题样式、添加tooltip,:render-header使用简介*
 
+***
+<!-- more -->
 ### render-header
 
 render-header在官方文档中的介绍是这样的：
