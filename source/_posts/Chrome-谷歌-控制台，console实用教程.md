@@ -4,10 +4,7 @@ copyright: true
 date: 2018-11-29 14:41:33
 tags:
 - console
-- 前端
 categories:
-- console
-- javascript
 - 前端
 comments: true
 ---

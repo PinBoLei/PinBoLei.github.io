@@ -9,11 +9,6 @@ tags:
 - Element-ui
 categories:
 - vue
-- Element-ui
-- html
-- JSX
-- javascript
-- 前端
 comments: true
 ---
 

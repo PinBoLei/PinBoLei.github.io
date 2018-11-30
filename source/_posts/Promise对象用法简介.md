@@ -4,11 +4,8 @@ copyright: true
 date: 2018-11-30 09:32:45
 tags:
 - Promise
-- ES6
 categories:
 - ES6
-- javascript
-- 前端
 comments: true
 ---
 

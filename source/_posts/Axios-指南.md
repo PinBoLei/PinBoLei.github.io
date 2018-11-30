@@ -5,9 +5,7 @@ date: 2018-11-30 09:23:04
 tags:
 - axios
 categories:
-- axios
 - ES6
-- 前端
 comments: true
 ---
 
