@@ -12,7 +12,7 @@ categories:
 comments: true
 ---
 
-*Element-ui自定义table表头，修改列标题样式、添加tooltip,:render-header使用简介*
+>*Element-ui自定义table表头，修改列标题样式、添加tooltip,:render-header使用简介*
 
 ***
 <!-- more -->
