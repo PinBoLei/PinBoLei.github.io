@@ -191,7 +191,7 @@ B：使用@media 引入媒体类型的方式是在head标签中的style引入
 
 ### 2）常用Media query设备特性
 
-![图2-1](pic20.png)
+![图2-1](pic20.jpg)
 
 ## 六、Responsive web design 响应式设计布局概念
 
