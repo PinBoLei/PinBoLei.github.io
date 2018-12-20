@@ -6,7 +6,7 @@ tags:
 - CSS选择器
 - CSS3属性
 categories:
-- CSS3
+- css3
 comments: true
 ---
 > 本文主要介绍CSS选择器和CSS3属性
