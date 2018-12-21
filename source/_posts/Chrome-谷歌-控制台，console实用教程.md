@@ -7,6 +7,7 @@ tags:
 categories:
 - 前端
 comments: true
+keywords: console-实用教程
 ---
 
 >*大家在调试程序的时候，经常会用到控制台，在console下调试各种bug,在此整理了控制台console的一些用法，希望能够帮到你，话不多说，上干货*

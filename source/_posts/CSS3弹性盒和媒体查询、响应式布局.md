@@ -10,6 +10,7 @@ tags:
 categories:
 - css3
 comments: true
+keywords: css3-弹性盒,媒体查询
 ---
 
 >CSS3弹性盒和媒体查询、响应式布局简介

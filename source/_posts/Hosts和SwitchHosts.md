@@ -8,6 +8,7 @@ tags:
 categories:
 - SwitchHosts
 comments: true
+keywords: Hosts,SwitchHosts
 ---
 >*整理了一下关于hosts和SwitchHosts知识，希望能帮到你*
 

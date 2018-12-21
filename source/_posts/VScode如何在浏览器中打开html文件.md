@@ -8,6 +8,7 @@ tags:
 categories:
 - VScode
 comments: true
+keywords: VScode-打开html文件
 ---
 
 >Vscode默认是在控制台下查看html文件，对于我们查看和调试都很不方便，那如何在浏览器中打开呢？

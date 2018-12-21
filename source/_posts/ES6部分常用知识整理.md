@@ -7,6 +7,7 @@ tags:
 categories:
 - ES6
 copyright: true
+keywords: ES6部分常用知识整理
 ---
 
 >*在这整理了一些常用的ES6的知识，希望能够帮助开发者更加了解和运用ES6*

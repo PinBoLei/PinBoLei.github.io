@@ -7,6 +7,7 @@ tags:
 categories:
 - ES6
 comments: true
+keywords: axios-指南
 ---
 
 >*分享一下axios的相关知识*

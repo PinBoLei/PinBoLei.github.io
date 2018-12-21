@@ -8,6 +8,7 @@ tags:
 categories:
 - vue
 comments: true
+keywords: vue-i18n
 ---
 
 >*有时候我们的项目需要支持多种语言，切换语言设置时，就自动切换整个项目的文字显示。*
