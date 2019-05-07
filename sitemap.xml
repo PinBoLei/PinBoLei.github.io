@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pinbolei.cn/vue%E8%B7%AF%E7%94%B1%E6%89%93%E5%BC%80%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E7%AA%97%E5%8F%A3/</loc>
+    
+    <lastmod>2019-05-07T06:31:12.358Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://pinbolei.cn/vue%E7%BB%84%E4%BB%B6%E9%97%B4%E9%80%9A%E4%BF%A1/</loc>
     
     <lastmod>2019-05-07T02:42:08.545Z</lastmod>
@@ -58,13 +65,6 @@
   </url>
   
   <url>
-    <loc>https://pinbolei.cn/vue%E8%B7%AF%E7%94%B1%E6%89%93%E5%BC%80%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E7%AA%97%E5%8F%A3/</loc>
-    
-    <lastmod>2019-05-06T07:45:12.708Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://pinbolei.cn/vue%E7%BB%84%E4%BB%B6keep-alive/</loc>
     
     <lastmod>2019-05-06T07:45:12.703Z</lastmod>
@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>https://pinbolei.cn/Promise%E5%AF%B9%E8%B1%A1%E7%94%A8%E6%B3%95%E7%AE%80%E4%BB%8B/</loc>
+    <loc>https://pinbolei.cn/VScode%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E6%89%93%E5%BC%80html%E6%96%87%E4%BB%B6/</loc>
     
     <lastmod>2019-05-06T07:45:12.678Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://pinbolei.cn/VScode%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E6%89%93%E5%BC%80html%E6%96%87%E4%BB%B6/</loc>
+    <loc>https://pinbolei.cn/Promise%E5%AF%B9%E8%B1%A1%E7%94%A8%E6%B3%95%E7%AE%80%E4%BB%8B/</loc>
     
     <lastmod>2019-05-06T07:45:12.678Z</lastmod>
     
