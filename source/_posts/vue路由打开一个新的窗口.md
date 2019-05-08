@@ -11,7 +11,7 @@ comments: true
 keywords: router-link
 ---
 
->*简单说一下vue路由如何打开一个新的窗口*
+>简单说一下vue路由如何打开一个新的窗口
 ***
 
 <!-- more -->

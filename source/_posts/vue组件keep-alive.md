@@ -9,7 +9,7 @@ categories:
 comments: true
 keywords: keep-alive
 ---
->*vue组件 keep-alive使用简介*
+>vue组件 keep-alive使用简介
 ***
 <!--more-->
 

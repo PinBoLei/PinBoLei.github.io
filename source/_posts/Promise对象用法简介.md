@@ -10,7 +10,7 @@ comments: true
 keywords: Promise-对象用法简介
 ---
 
->*原自 阮一峰老师的 ECMAScript 6 入门*
+>原自 阮一峰老师的 ECMAScript 6 入门
 
 ***
 <!-- more -->

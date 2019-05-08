@@ -10,7 +10,7 @@ categories:
 comments: true
 keywords: prop
 ---
->*简单说一下vue组件间的通信*
+>简单说一下vue组件间的通信
 ***
 <!-- more -->
 
