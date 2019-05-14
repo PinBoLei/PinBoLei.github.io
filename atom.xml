@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pinbolei.cn/"/>
-  <updated>2019-05-08T09:20:18.935Z</updated>
+  <updated>2019-05-14T07:58:52.700Z</updated>
   <id>https://pinbolei.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git常用基本命令（上）</title>
+    <link href="https://pinbolei.cn/git%E5%B8%B8%E7%94%A8%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4%EF%BC%88%E4%B8%8A%EF%BC%89/"/>
+    <id>https://pinbolei.cn/git常用基本命令（上）/</id>
+    <published>2019-05-14T07:55:46.000Z</published>
+    <updated>2019-05-14T07:58:52.700Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>简单说一下git常用的命令，包括上下两个部分，下期主要讲git分支管理部分</p></blockquote><hr><a id="more"></a><p><strong>1.克隆现有的仓库</strong><br><code>git clone [url]</code></p><p><strong>2.初始化仓库</strong><br><code>git init</code></p><p><strong>3.把文件提交到暂存区</strong><br><code>git add</code></p><p><strong>4.把所有的文件提交到暂存区</strong><br><code>git add .</code> 或 <code>git add *</code></p><p>注：包括文件内容修改(modified)以及新文件(new)，但不包括被删除的文件</p><p><strong>5.提交文件到仓库</strong><br><code>git commit -m &#39;对本次提交的描述&#39;</code></p><p>注：添加的描述最好是英文，中文也可以</p><p><strong>6.检查当前文件状态</strong><br><code>git status</code></p><p><strong>7.查看提交历史</strong><br><code>git log</code></p><p>扩展：<br><img src="/git常用基本命令（上）/pic1.png" alt="git log"></p><p><strong>8.撤消操作</strong><br><code>git commit --amend</code><br>有时候我们提交完了才发现漏掉了几个文件没有添加，或者提交信息写错了。这时就可以用这个命令。</p><p>例：提交后发现忘记了暂存某些需要的修改</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ git commit -m &apos;initial commit&apos;</span><br><span class="line">$ git add forgotten_file</span><br><span class="line">$ git commit --amend</span><br></pre></td></tr></table></figure><p>最终你只会有一个提交，第二次提交将代替第一次提交的结果</p><p><strong>9.取消暂存的文件</strong><br><code>git reset HEAD 文件名</code></p><p><strong>10.回退版本</strong></p><ul><li>回退到上一个版本<code>git reset --hard HEAD^</code></li><li>回退到某一个版本：<code>git reset --hard &lt;git版本号&gt;</code>(版本号可在<code>git log</code>中查看)</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;简单说一下git常用的命令，包括上下两个部分，下期主要讲git分支管理部分&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+      <category term="git" scheme="https://pinbolei.cn/categories/git/"/>
+    
+    
+      <category term="git" scheme="https://pinbolei.cn/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>git flow工作流</title>
